@@ -1,0 +1,5 @@
+Download the nodejs from anywhere in you local system to run code locally
+
+
+1. npm install // use this first time. When you setup on local
+2. npm dev //start the server using this command
